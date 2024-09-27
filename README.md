@@ -3,9 +3,12 @@ I am a developer with extensive experience in building web and mobile applicatio
 
 Skills   
 ✔ Frontend: Angular,HTML, CSS, JavaScript, TypeScript, Bootstrap  
-✔ Backend: ASP.NET CORE   
-✔ Database: MySQL, PostgreSQL, MongoDB, Firebase,Redis,SQl Server  
-✔ DevOps: Docker, Kubernetes,Git
+✔ Backend: ASP.NET CORE 
+✔ ORM: EntityFrameworkCore
+✔ Database: MySQL, PostgreSQL, MongoDB, Firebase,SQl Server  
+✔ DevOps: Docker, Kubernetes  
+✔ System of version control: GIT  
+✔ Cache: Redis  
 
 Projects 📈  
 💕 DatingApp: Dating Web App Built with .NET 6 and Angular 14 and SignalR  
