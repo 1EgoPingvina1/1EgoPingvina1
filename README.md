@@ -1,14 +1,19 @@
 Welcome to My Profile! I'm Sinkov Andrey 👋    
 I am a developer with extensive experience in building web and mobile applications. My passion is to create innovative and user interfaces that make people's lives easier and more interesting.  
 
-Skills   
-✔ Frontend: Angular,HTML, CSS, JavaScript, TypeScript, Bootstrap  
-✔ Backend: ASP.NET CORE  
-✔ ORM: EntityFrameworkCore  
-✔ Database: MySQL, PostgreSQL, MongoDB, Firebase,SQl Server    
-✔ DevOps: Docker, Kubernetes  
-✔ System of version control: GIT  
-✔ Cache: Redis  
+Skills  
+✔ C#/NET  
+✔ ADO.NET / Entity Framework  
+✔ ASP.NET CORE Web API  
+✔ ASP.NET Core Identity  
+✔ T-SQL  
+✔ xUnit + Moq  
+✔ Design Patterns / SOLID    
+✔ HTML, CSS Bootstrap  
+✔ Angular 16  
+✔ MongoDB,Redis      
+✔ Docker  
+✔ GIT   
 
 Projects 📈  
 💕 DatingApp: Dating Web App Built with .NET 6 and Angular 14 and SignalR  
