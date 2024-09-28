@@ -3,9 +3,9 @@ I am a developer with extensive experience in building web and mobile applicatio
 
 Skills   
 ✔ Frontend: Angular,HTML, CSS, JavaScript, TypeScript, Bootstrap  
-✔ Backend: ASP.NET CORE 
-✔ ORM: EntityFrameworkCore
-✔ Database: MySQL, PostgreSQL, MongoDB, Firebase,SQl Server  
+✔ Backend: ASP.NET CORE  
+✔ ORM: EntityFrameworkCore  
+✔ Database: MySQL, PostgreSQL, MongoDB, Firebase,SQl Server    
 ✔ DevOps: Docker, Kubernetes  
 ✔ System of version control: GIT  
 ✔ Cache: Redis  
