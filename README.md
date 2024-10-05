@@ -18,6 +18,7 @@ Skills
 Projects 📈  
 💕 DatingApp: Dating Web App Built with .NET 6 and Angular 14 and SignalR  
 🛒 E-commerce store: An online store built with .NET 6 and Angular 14 and Stripe
+🌤 Weather app: An online service for checking weather outside with HTML,JS,CSS and openAPI 
 
 Contacts 🤙   
 Email: sinkov407@gmail.com  
